@@ -64,18 +64,3 @@ This formulation will work for every possible amount of independent variable and
 
 ## Conclusion
 Linear Regression is one the most powerful methods to predict something depending on different situations, keep in mind that linear regression is a good method when the relation between dependent and independent variables is somehow linear like car price that is dependent on its power.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-In this project, I implemented a multiple linear regression model using Python. The implementation includes a detailed explanation of how multiple linear regression works, covering the underlying mathematics, assumptions, and the process of estimating coefficients. Additionally, I developed a training model to fit the data, providing insights into its performance and accuracy.
